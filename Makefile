@@ -92,3 +92,4 @@ build:
 
 push:
 	docker push ${IMAGE}
+
